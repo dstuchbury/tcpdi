@@ -7,7 +7,7 @@ PDF importer for [TCPDF](http://www.tcpdf.org/), based on [FPDI](http://www.seta
 Requires [pauln/tcpdi_parser](https://github.com/pauln/tcpdi_parser) and [FPDF_TPL](http://www.setasign.de/products/pdf-php-solutions/fpdi/downloads/)
 which included in the repository.
 
-Contains fix for deprecated call to each().
+Contains fix for deprecated call to each() (Dan Stuchbury)
 
 Installation
 ------------
